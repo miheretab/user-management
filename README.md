@@ -8,3 +8,4 @@
 7. php artisan migrate
 8. composer dumpautoload
 9. php artisan db:seed
+10. you can login using u:admin@admin.com p:password
