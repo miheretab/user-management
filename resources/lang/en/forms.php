@@ -4,7 +4,7 @@ return [
 
 	// USER LABEL
 	'label_email' => 'Email Address',
-	'label_first_name' => 'First Name',
+	'label_first_name' => 'Name',
 	'label_surname' => 'Surname',
 	'label_password' => 'Password',
 	'label_password_confirmation' => 'Confirm Password',
